@@ -1,13 +1,0 @@
-The expanded nodes: 
-[(B,D)4, (B,C)7, (B,A)4, (A,E)9]
-
--	-	-	-	-	-
-The priority queue: 
-[[(A,C)4, (A,B)6, (A,E)9]
-, [(A,B)6, (A,E)9]
-, [(B,D)4, (B,C)7, (B,A)4, (A,E)9]
-]
-
--	-	-	-	-	-
-The Shortest path: 
-[A, B, D]
